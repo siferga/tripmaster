@@ -1,0 +1,5 @@
+# Project exclude paths
+/TourGuide/.gradle/
+/TourGuide/build/
+/TourGuide/build/classes/java/main/
+/TourGuide/build/classes/java/test/
